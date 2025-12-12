@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\percourpersonel_01\\20253-pgj1304\\parcours\\boum408\\parcours_personel_07\\nightboundsurvivor\\intermediate\\build\\win64\\unrealeditor\\inc\\nightboundsurvivor\\uht\\survivorgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\percourpersonel_01\\20253-pgj1304\\parcours\\boum408\\parcours_personel_07\\nightboundsurvivor\\intermediate\\build\\win64\\x64\\nightboundsurvivoreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\percourpersonel_01\\20253-pgj1304\\parcours\\boum408\\parcours_personel_07\\nightboundsurvivor\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nightboundsurvivor\\definitions.nightboundsurvivor.h",
+            "c:\\percourpersonel_01\\20253-pgj1304\\parcours\\boum408\\parcours_personel_07\\nightboundsurvivor\\source\\nightboundsurvivor\\game\\survivorgamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\percourpersonel_01\\20253-pgj1304\\parcours\\boum408\\parcours_personel_07\\nightboundsurvivor\\intermediate\\build\\win64\\unrealeditor\\inc\\nightboundsurvivor\\uht\\survivorgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
