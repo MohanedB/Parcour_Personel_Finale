@@ -12,8 +12,6 @@ USurvivorAttributeSet::USurvivorAttributeSet()
     InitDamage(10.0f);
 }
 
-// NOTE: PreAttributeChange is REMOVED. 
-// This fixes the C2509 error and ensures damage isn't blocked before it hits.
 
 void USurvivorAttributeSet::PostGameplayEffectExecute(const FGameplayEffectModCallbackData& Data)
 {

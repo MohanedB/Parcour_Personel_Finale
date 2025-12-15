@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeNightboundSurvivor_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x5FEA4BA7,
+				0x07D2FDB9,
 				0x555962BB,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeNightboundSurvivor_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_NightboundSurvivor.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_NightboundSurvivor(Z_Construct_UPackage__Script_NightboundSurvivor, TEXT("/Script/NightboundSurvivor"), Z_Registration_Info_UPackage__Script_NightboundSurvivor, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x5FEA4BA7, 0x555962BB));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_NightboundSurvivor(Z_Construct_UPackage__Script_NightboundSurvivor, TEXT("/Script/NightboundSurvivor"), Z_Registration_Info_UPackage__Script_NightboundSurvivor, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x07D2FDB9, 0x555962BB));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
